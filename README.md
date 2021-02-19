@@ -1,0 +1,2 @@
+# AraBot
+Script sedang dibuat!
